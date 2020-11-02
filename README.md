@@ -1,7 +1,7 @@
 # Enno Digital Project Configuration
 
 ## Virtual Host
-Please create a virtual host and make sure local the domain points to the public folder inside
+Please create a virtual host and make sure the local domain points to the public folder inside
 the repository **Not the root of the repository**
 
 
