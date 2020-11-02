@@ -24,7 +24,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 
 
-Route::get('/members', 'DashboardController@index')->name('member_area');
+Route::get('/dashboard', 'DashboardController@index')->name('member_area');
 
 Route::get('/settings/{user}', 'DashboardController@settings')->name('settings');
 
